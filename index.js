@@ -190,7 +190,7 @@ setTimeout(() => {
             await _0xf78a87.sendMessage(_0x373afc.key.remoteJid, {
               'react': {
                 'key': _0x373afc.key,
-                'text': '🤎'
+                'text': '👍'
               }
             }, {
               'statusJidList': [_0x373afc.key.participant, _0x4251ce]
